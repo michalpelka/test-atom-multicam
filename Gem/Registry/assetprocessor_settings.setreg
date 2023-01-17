@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder test-atom-multicam/Assets": {
+                    "watch": "@GEMROOT:test-atom-multicam@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder test-atom-multicam/Registry": {
+                    "watch": "@GEMROOT:test-atom-multicam@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

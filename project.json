@@ -1,0 +1,21 @@
+{
+    "project_name": "test-atom-multicam",
+    "project_id": "{0FF2F4D4-C666-4413-8BEC-E4DC894D39A7}",
+    "origin": "The primary repo for test-atom-multicam goes here: i.e. http://www.mydomain.com",
+    "license": "What license test-atom-multicam uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "test-atom-multicam",
+    "summary": "A short description of test-atom-multicam.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "test-atom-multicam"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "test-atom-multicam",
+    "engine_version": ""
+}
